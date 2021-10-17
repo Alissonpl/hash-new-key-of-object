@@ -1,0 +1,13 @@
+{
+  "name": "hashmodule",
+  "version": "1.0.0",
+  "description": "hash module of object or array",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --build",
+    "start": "node dist/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alisson Patrick Lourenco",
+  "license": "ISC"
+}
